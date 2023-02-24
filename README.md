@@ -1,5 +1,5 @@
 # preROMS
-prepare input file (grid, initial, ...) useing roms_tool, roms_argif or roms_wilkin toolbox
+prepare input file (grid, initial, ...) using roms_tool, roms_argif or roms_wilkin Matlab toolbox
 
 
 ## Author's Note

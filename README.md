@@ -1,4 +1,4 @@
-# preROMS
+# prepareROMS
 prepare input file (grid, initial, ...) using roms_tool, roms_argif or roms_wilkin Matlab toolbox
 
 to avoid code conflicts, I run "addpath_xxxx.m" of temporarily adding paths to call which toolbox I need.

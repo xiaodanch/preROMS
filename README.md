@@ -1,7 +1,7 @@
 # prepareROMS
 prepare input file (grid, initial, ...) using roms_tool, roms_argif or roms_wilkin Matlab toolbox
 
-to avoid code conflicts, I run "addpath_xxxx.m" of temporarily adding paths to call which toolbox I need.
+to avoid conflicts, I run "addpath_xxxx.m" of temporarily adding paths to call which toolbox I need.
 
 ## How to use pre_grid.m
 [read_grid](docs/read_grid.md)

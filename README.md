@@ -3,6 +3,9 @@ prepare input file (grid, initial, ...) using roms_tool, roms_argif or roms_wilk
 
 to avoid code conflicts, I run "addpath_xxxx.m" of temporarily adding paths to call which toolbox I need.
 
+## How to use pre_grid.m
+[read_grid](docs/read_grid.md)
+
 ## Author's Note
 To run ROMS, input files (roms_grd.nc, roms_ini.nc, ...) need to be prepared. There are many reliable and comprehensive Matlab toolboxes available online that can be used to generate these files, such as [roms_tool](https://www.myroms.org/wiki/Matlab_Scripts), [roms_argif](https://www.croco-ocean.org/download-2/), and [roms_wilkin](https://github.com/johnwilkin/roms_wilkin). These tools are highly recommended, but due to my limited abilities, I couldnot utilize them to their full potential.
 

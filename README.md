@@ -11,4 +11,4 @@ To run ROMS, input files (roms_grd.nc, roms_ini.nc, ...) need to be prepared. Th
 
 This repository is mainly for sharing my process of how to use the above toolboxes to generate ROMS files. Some codes of tools may be adapted (not for commercial use). For example, I prefer to use "roms_argif" for generating the grid and "roms_tool" for generating the initial file.
 
-There may be some errors in the program. If any issues, please feel free to contact me (cxd1207944328@163.com).
+There may be some errors in the program. If any issues, please feel free to contact me.

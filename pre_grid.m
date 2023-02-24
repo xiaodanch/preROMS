@@ -59,8 +59,8 @@ hmax = 6000;
 %  Topography netcdf file name (ETOPO 2 or any other netcdf file
 %  in the same format)
 %
-TOPODIR = 'path/to/roms_argif/';
-topofile = [TOPODIR,'Topo/etopo2.nc'];
+TOPODIR = 'path/to/roms_argif/Topo/';
+topofile = [TOPODIR,'etopo2.nc'];
 %
 % Slope parameter (r=grad(h)/h) maximum value for topography smoothing
 %
@@ -102,7 +102,7 @@ makeplot     = 1;                 % 1: create a few graphics after each preproce
 %
 %  ROMS input netcdf files directory
 %
-ROMS_files_dir= 'path/to/where/put/your/input/gridfile/'; 
+ROMS_files_dir= 'path/to/where/save/your/input/gridfile/'; 
 eval(['!mkdir ',ROMS_files_dir])
 %
 % ROMS file names (grid)

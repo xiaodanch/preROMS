@@ -3,7 +3,7 @@ prepare input file (grid, initial, ...) using roms_tool, roms_argif or roms_wilk
 
 to avoid conflicts, I run "addpath_xxxx.m" of temporarily adding paths to call which toolbox I need.
 
-## How to makr roms_grd.nc
+## How to make roms_grd.nc
 use pre_grid.m [read_grid](docs/read_grid.md)
 
 ## Author's Note
